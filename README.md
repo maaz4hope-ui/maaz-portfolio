@@ -2,7 +2,7 @@
 
 Source code for my personal Data Analyst portfolio website.
 
-🔗 **Live site:** https://shaikh-data-analyst-portfolio.ai.studio/
+🔗 **Live site:** https://maaz4hope-ui.github.io/maaz-portfolio/
 
 ---
 
